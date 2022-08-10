@@ -1,2 +1,4 @@
+.rasa/
 actions/__pycache__
+models/
 venv/
