@@ -27,8 +27,8 @@ $(document).ready(function() {
      $("#userInput").prop('disabled', true);
 
     //global variables
-    action_name = "action_greet_user";
-    user_id = "eshaan";
+    action_name = "action_corona_tracker";
+    user_id = "eshaan" + Date.now();
 
     //if you want the bot to start the conversation
      action_trigger();
